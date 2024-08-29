@@ -4,6 +4,8 @@
 <img src="https://github.com/Ankush1626/Flappy-Bird-AI/blob/main/Flappy%20Bird%20AI.gif" align="center" style="width: 100%" />
 </div>  
 
+<br/>
+
 Note - Required python modules are pygame and neat-python.
 
 This code is for a Flappy Bird game where an AI learns to play the game using the NEAT algorithm. Here's a detailed explanation:
